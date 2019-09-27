@@ -1,0 +1,5 @@
+He tenido problemas porque tengo 2 usuarios GitHub:
+- uno "mbellido" mio que lo tenía hace tiempo
+- dos "mbg1819" que lo creé para el instituto el año pasado
+
+Desde mi PC no me deja hacer push porque me coge por defecto el usuario "mbellido", he tenido que añadirlo como colaborador en mi repositorio "mbg1819/semana1-github"

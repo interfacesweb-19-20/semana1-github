@@ -1,3 +1,6 @@
 Juego de Tronos
 El Juego de Ender
 La Historia Interminable
+Todo sobre JS
+Master en PHP
+Html y css3

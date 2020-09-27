@@ -1,0 +1,1 @@
+Generalicé actor con actores y actrices y por ello están invertidos los archivos.

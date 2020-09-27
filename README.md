@@ -2,3 +2,5 @@
 Repositorio para la práctica de uso de GitHub
 
 Incluye a continuación tu nombre y apellidos:
+
+Luis Jesus Rodes Roca

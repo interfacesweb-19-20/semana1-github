@@ -2,3 +2,4 @@
 Repositorio para la práctica de uso de GitHub
 
 Incluye a continuación tu nombre y apellidos:
+Susana Fernández Gómez

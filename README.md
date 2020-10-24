@@ -2,4 +2,6 @@
 Repositorio para la práctica de uso de GitHub
 
 Incluye a continuación tu nombre y apellidos:
-Manuel V. Viozquez Camara
+
+Manuel Viozquez Camara
+
